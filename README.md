@@ -29,7 +29,7 @@ w = WordSearch(words,x,y)
  > ```WordSearch.Grid``` 
  Description: It is the WordSearch Grid where all letters are stored.                                                          
  > ```WordSearch.maxX```
- Description: The "x" value you defined at the start of generating the object.
+ Description: The "x" value you defined at the start of generating the object.                                                 
  > ``` WordSearch.maxY```                                                                                                      
  Description: The "y" value you defined at the start of generating the object.
  
