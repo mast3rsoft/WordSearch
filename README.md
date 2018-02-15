@@ -27,9 +27,9 @@ w = WordSearch(words,x,y)
  Discription: it returns a letter (string) in the defined parameters
  ### Propeties
  > ```WordSearch.Grid``` 
- Discription: It is the WordSearch Grid where all letters are stored.                                                          
+ Description: It is the WordSearch Grid where all letters are stored.                                                          
  > ```WordSearch.maxX```
- Discription: The "x" value you defined at the start of generating the object.
- > ``` WordSearch.maxY```
- Discription: The "y" value you defined at the start of generating the object.
+ Description: The "x" value you defined at the start of generating the object.
+ > ``` WordSearch.maxY```                                                                                                      
+ Description: The "y" value you defined at the start of generating the object.
  
