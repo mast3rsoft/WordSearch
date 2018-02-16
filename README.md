@@ -12,7 +12,7 @@ from WordSearch import WordSearch
 ```
 # words = a variable with all the words, which are all seperated by a comma.
 # Note : the variable which contains all words mustn't be called words.
-words = ("Hello,Blah,Sperhero")
+words = ("Hello,Blah,Superhero")
 x = 40
 x = 40
 # x & y indicate the size of the word search.
@@ -25,11 +25,13 @@ w = WordSearch(words,x,y)
 ### Methods
 > ``` WordSearch.letter(row, column) ```
  Discription: it returns a letter (string) in the defined parameters
+> ```WordSearch.findWords(words)```
+
  ### Propeties
  > ```WordSearch.Grid``` 
  Description: It is the WordSearch Grid where all letters are stored.                                                          
  > ```WordSearch.maxX```
  Description: The "x" value you defined at the start of generating the object.                                                 
- > ``` WordSearch.maxY```                                                                                                      
+ > ```WordSearch.maxY```                                                  
  Description: The "y" value you defined at the start of generating the object.
  
