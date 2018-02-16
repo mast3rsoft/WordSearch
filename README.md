@@ -23,15 +23,15 @@ w = WordSearch(words,x,y)
 ## What can a Word search object do?
 ------------------------------------------------------------------------------------------------------------------------------
 ### Methods
-> ``` WordSearch.letter(row, column) ```
- Discription: it returns a letter (string) in the defined parameters
-> ```WordSearch.findWords(words)```
-
+> ``` WordSearch.letter(row, column) ```                                                                                       
+ Discription: it returns a letter (string) in the defined parameters                                                           
+> ```WordSearch.findWords(words)```                                                                                            
+Discription: it searches the words in Grid. (Note: words is a list and is not seperated by commas.) It returns a dictionary where the key is the word and value is a list of tuples(Note:that the tuples are in that order: (y,x)) of the positions the letters
  ### Propeties
- > ```WordSearch.Grid``` 
+ > ```WordSearch.Grid```                                                     
  Description: It is the WordSearch Grid where all letters are stored.                                                          
- > ```WordSearch.maxX```
+ > ```WordSearch.maxX```                                                     
  Description: The "x" value you defined at the start of generating the object.                                                 
  > ```WordSearch.maxY```                                                  
  Description: The "y" value you defined at the start of generating the object.
- 
+
