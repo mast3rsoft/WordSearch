@@ -14,7 +14,7 @@ from WordSearch import WordSearch
 # Note : the variable which contains all words mustn't be called words.
 words = ("Hello,Blah,Superhero")
 x = 40
-x = 40
+y = 40
 # x & y indicate the size of the word search.
 # Note: When you take a look at our code, you will see 'grid' (a list).
 #Grid is a a list which contains lists(columns) which contain letters (strings). 
